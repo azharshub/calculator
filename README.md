@@ -6,7 +6,6 @@
 ### 🔎 Repository Overview
 - **Owner:** [azharshub](https://github.com/azharshub)  
 - **Repo Name:** `calculator`  
-- **Stars/Forks:** 0 stars, 0 forks (early-stage project)  
 - **Languages Used:**
   - **HTML (81.4%)** – main UI for the calculator
   - **JavaScript (15.4%)** – logic for calculations and server
@@ -57,8 +56,4 @@
 - The project is **basic and experimental**, with no issues or pull requests yet.  
 - It’s a good starting point if you want to learn about **web-based calculators, Node.js servers, and Dockerization**.  
 - Since Mohamed enjoys structured technical learning, this repo could be a neat hands-on exercise to explore **frontend-backend integration** and **container deployment**.
-
----
-
-Would you like me to **diagram the architecture** (frontend, backend, Docker container) so you can visualize how the pieces fit together?
 
