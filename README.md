@@ -46,9 +46,9 @@
 3. **Run with Docker:**
    ```bash
    docker build -t calculator .
-   docker run -p 3000:3000 calculator
+   docker run -p 5000:5000 calculator
    ```
-   Access via `http://localhost:3000`.
+   Access via `http://localhost:5000`.
 
 ---
 
